@@ -1,0 +1,7 @@
+.npdesi_3
+.venv
+.vscode
+*.log
+secret*
+__pycache__
+
