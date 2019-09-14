@@ -1,0 +1,12 @@
+{
+    "name": "npdesi",
+    "version": "0.1.0",
+    "Author": "Cisco",
+    "Copyright": "Cisco",
+    "Description": "Generate bindings for NPDESI Course",
+    "models": {
+        "file": [
+            "custom_models/npdesi-course.yang"
+        ]
+    }
+}
