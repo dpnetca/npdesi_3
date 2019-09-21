@@ -4,7 +4,7 @@ from ydk.providers import NetconfServiceProvider
 from ydk.models.openconfig import bgp
 
 sbx_iosxr_ao = {
-    "host": "sbx-iosxr-mgmt.cisco.com",
+    "address": "sbx-iosxr-mgmt.cisco.com",
     "port": 10000,
     "username": "admin",
     "protocol": "ssh",
